@@ -4,7 +4,7 @@ Welcome to Crazy Snack Attack, a delightful game where snacks come to life! 🍿
 
 ## Play the Game
 
-[Play Now](https://your-username.github.io/crazy-snack-attack/) 🕹️
+[Play Now](https://aryan0-1maurya.github.io/crazy-snack-attack/) 🕹️
 
 ## About the Game
 
